@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.blog {
+    margin: 250px 250px 250px 150px; 
+}
+.title {
+    background-color: black;
+    color: white;
+}
+span{
+    font-size: 20px;
+    color: blue;
+}
+h1{
+    color: red;
+    font-size: 25px;
+}
